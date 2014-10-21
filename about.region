@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Quirk Magazine</title>
+        <meta name="description" content="Quirk is an online Magazine made by and for young women. Frustrated with the current selection of magazines that objectify women, Quirk serves to be an alternative option.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+
+
+        <!--JAVASCRIPT -->
+        {squarespace-headers} 
+    </head>
+
+<body>
+    <section id="header">
+        <div id="headerbg"
+            data-130="transform: translateY(0px)" 
+            data-180="transform: translateY(-55px)"
+            data-anchor-target="#hero">
+        </div>
+
+        <img id="menuicon" src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/540a3e1ce4b0c46f2351f81b/1409957406985/menuicon.png?format=100w" />
+            
+        <a href="/home">
+        <img id="logo" src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/54066ad3e4b087d8052e6de2/1409706707204/?format=300w" alt="quirk"
+            data-0="left:50%"
+            data-130="transform: scale(1) translateY(0px)" 
+            data-190="transform: scale(.4) translateY(-115px)"
+            data-191="left: 130px"
+            data-192="transform: scale(.4) translateY(-41px)"
+            data-anchor-target="#hero"></a>
+ 
+        <ul id="navbarmobile">
+                  <li><a class="current" href="/about">About</a></li>
+                  <li><a href="/fashion">Fashion</a></li>
+                  <li><a href="/art">Art</a></li>
+                  <li><a href="/reflections">Reflections</a></li>
+                  <li><a href="/submit">Submit</a></li>
+        </ul>
+       
+        <table id="navbar"
+            data-130="transform:translateY(0px)"
+            data-180="transform:translateY(-55px)"
+            data-anchor-target="#hero">
+                <tr>
+                    <td><a class="current" title="About" href="/about">About</a></td>
+                    <td><a title="Fashion" href="/fashion">Fashion</a></td>
+                    <td><a title="Art" href="/art">Art</a></td>
+                    <td><a title="Reflections" href="/reflections">Reflections</a></td>
+                    <td><a title="Submit" href="/submit">Submit</a></td>
+                </tr>
+        </table>
+            
+        <table id="social" class="right">
+            <tr>
+                <td><a href="http://instagram.com/quirkmag/" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b02ce4b0ba22079ac349/1409789996152/?format=100w"></a></td>
+                <td><a href="https://www.facebook.com/quirkmagazine" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b01ce4b0ba22079ac32c/1409789980351/?format=100w"></a></td>
+                <td><a href="https://twitter.com/quirk_mag" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b03be4b0ba22079ac366/1409790015790/?format=100w"></a></td>
+            </tr>
+        </table>
+    </section>
+
+    <!--- MAIN CONTENT -->
+    <section id="hero">
+        <img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/543e2379e4b0fffb4575323c/1413358468210/?format=1000w" />
+
+    </section>
+
+    <div id="sidebar">
+        <div id="scroller-anchor"></div> 
+            <ul id="scroller">
+                <li><h2>About</h2></li>
+                <li><a href="#scroll-about" class="p-text">What is Quirk?</a></li>
+                <li><a href="#scroll-team" class="p-text">Team</a></li>
+                <li><a href="#scroll-faq" class="p-text">FAQ</a></li>
+                <li><a href="#scroll-contact" class="p-text">Contact</a></li>
+             </ul> 
+    </div>  
+
+    <section id="about-wrapper">
+        <div id="scroll-about"></div>
+        <section id="about-about">
+            <div><h2>What is Quirk?</h2></div>
+            <div><p class="p-text">Quirk Magazine is an online magazine designed by and for young women. Frustrated with the current selection of magazines that objectify women, Quirk Magazine serves to be an alternative option. We care about topics relevant to young women today, ranging from fashion to social issues. We celebrate creativity by sharing artistic endeavors of other women. We value honest stories and reflections that allow us to look at the world with a new perspective. Our hope is that this magazine will spur you to experience life with unrelenting curiosity.</p></div>
+        </section>
+
+        <div id="scroll-team"></div>
+            <section id="about-team">
+                <div><h2>Meet The Team</h2></div>
+                <div>
+                <table>
+                    <tr>
+                        <td>
+                        <img src="http://i31.photobucket.com/albums/c358/TwilightMemory/team.jpg"/>
+                        <h2>Abi Koh</h2><p class="subtext">Founder and Editor</p><p class="p-text">Born in Singapore, Abi picked up an American accent while living in Kazakhstan as a little girl. She recently graduated from Northwestern University and is an ardent fan of design and code. Abi loves obsessing over film, hugging people, receiving snail mail, drooling over the latest tech gadgets, and learning to see every cloud’s silver lining.</p>
+                        <a href="https://twitter.com/hugyourlife" target="_blank"><p class="about-socialmedia">Twitter | @hugyourlife</p></a>
+                        <a href="http://instagram.com/adventuresofabi" target="_blank"><p class="about-socialmedia">Instagram | adventuresofabi</p></a>
+                        <a href="http://www.adventuresofabi.com" target="_blank"><p class="about-socialmedia">Blog | adventuresofabi.com</p></a>
+                        </td>
+                
+                        <td class="right-column">
+                        <img src="http://i31.photobucket.com/albums/c358/TwilightMemory/blankbox.png" />
+                        <h2>This could be you</h2>
+                        <p class="p-text"><br/>Hello there! Quirk Magazine is looking for Main Contributors, Editors, Illustrators, and Photographers to help out as we grow. Main Contributors will produce content for Quirk on a regular basis. Editors will curate content and sift through submissions. Illustrators and Photographers will create visual imagery to go along with written articles. If interested, please email submissions@quirk-magazine.com.</p>
+                        </td>
+                    </tr>
+                </table>
+                </div>
+            </section>
+
+        <div id="scroll-faq"></div>
+            <section id="about-faq">
+                <h2>FAQ</h2>
+                <p class="p-text">
+                Q: How often is the website updated with new content? <br/>
+                A: Because we just recently launched, we aim to update the website with new content at least twice a week. As we gain traction in the future, we hope to add new content daily.<br/>
+                <br/>
+                Q: Will there be a future Food, DIY, or other section? <br/>
+                A: Maybe! If there is enough demand, and people are willing to contribute content, this could definitely happen.<br/>
+                 <br/>
+                Q: Do you have a print edition? <br/>
+                A: It would be a dream to expand into print. If we gain enough viewership, publishing a print magazine issue to complement our online content would be very possible.<br/>
+                <br/>
+                Q: How can I give feedback?<br/>
+                A: We are always open to feedback regarding how our website and magazine can be improved. If there’s something you want to see in Quirk, let us know! You can send feedback to submissions@quirk-magazine.com.
+                <br/><br/>
+
+                </p>
+            </section>
+
+        <div id="scroll-contact"></div>
+            <section id="about-contact">
+                <h2>Contact</h2>
+                <p class="p-text">For further inquiries, feel free to contact abi@quirkmagazine.com. If you’d like to submit content, you can head on over to the submit page for more details.</p>
+                <a href="https://twitter.com/quirk_mag" target="_blank"><p class="about-socialmedia">Twitter | @quirk_mag</p></a>
+               <a href="http://instagram.com/quirkmag" target="_blank"><p class="about-socialmedia">Instagram | quirkmag</p></a>
+            </section>
+
+    </section>
+      
+    <footer>
+        <hr>
+        <table>
+            <tr>
+                <td><a href="http://instagram.com/quirkmag/" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b02ce4b0ba22079ac349/1409789996152/?format=100w"></a></td>
+                <td><a href="https://www.facebook.com/quirkmagazine" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b01ce4b0ba22079ac32c/1409789980351/?format=100w"></a></td>
+                <td><a href="https://twitter.com/quirk_mag" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b03be4b0ba22079ac366/1409790015790/?format=100w"></a></td>
+            </tr>
+        </table>
+        <table id="legal">
+            <tr>
+                <td class="right">This website was coded by a <a href="http://www.abikoh.com" target="_blank">llama</a></td>
+            </tr>
+        </table
+    </footer>
+
+    <!-- JAVASCRIPT -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"/></script>
+    <squarespace:script src="site.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
+    <squarespace:script src="skrollr.min.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
+    <squarespace:script src="bind-polyfill.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
+    <squarespace:script src="jquery.singlePageNav.min.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
+
+        
+    <script type="text/javascript">
+   
+    //NAVBAR ANIMATION utilizes Scrollr.js
+    $(function () {
+        // initialize skrollr if the window width is large enough
+        if ($(window).width() > 1024) {
+            var s=skrollr.init();
+
+            $(window).on('resize', function () {
+                 if ($(window).width() > 1024) {
+                         var s=skrollr.init();
+                 } else if ($(window).width() <= 1024) {
+                    skrollr.init().destroy();
+                 }
+            });         
+        } else {
+            skrollr.init().destroy();
+        }
+    });
+
+    $(window).on('resize', function () {
+        document.getElementById("navbarmobile").style.display = "none";
+    });
+    
+    //Displaying the mobile navbar
+    $("#menuicon").click(function(){
+        if ($( "#navbarmobile" ).is( ":hidden" ) ) {
+            $( "#navbarmobile" ).slideDown( 400 );
+        } else {
+            $( "#navbarmobile" ).hide();
+        }
+    }); 
+    
+    $("#hero").click(function(){    
+        document.getElementById("navbarmobile").style.display = "none";               
+    }); 
+
+    $("#about-wrapper").click(function(){    
+        document.getElementById("navbarmobile").style.display = "none";
+    }); 
+
+    $("#headerbg").click(function(){    
+        document.getElementById("navbarmobile").style.display = "none";      
+    }); 
+        
+    //sticky sidebar
+
+    $(function() {
+        moveScroller();
+    });
+    
+
+    function moveScroller() {
+        var move = function() {
+            var st = $(window).scrollTop();
+            var ot = $("#scroller-anchor").offset().top;
+            var s = $("#scroller");
+            
+            if(st > ot) {
+                s.css({
+                position: "fixed",
+                top: "100px"
+                });
+
+            } else {
+                if(st <= ot) {
+                    s.css({
+                        position: "relative",
+                        top: ""
+                    });
+                }
+            }
+        };
+    $(window).scroll(move);
+    move();
+    } 
+    
+    //Navbar Bolding & Smoothscroll using singlePageNav plugin
+    $('#scroller').singlePageNav();
+
+    </script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+            ga('create', 'UA-55816319-1', 'auto');
+            ga('send', 'pageview');
+        
+        </script>
+   </body>
+</html>
+

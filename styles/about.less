@@ -1,0 +1,236 @@
+//proper smoothscroll
+#scroll-about {
+	position: relative;
+	top:-60px;
+}
+
+#scroll-team {
+	position: relative;
+	top:-30px;
+}
+
+#scroll-faq {
+	position: relative;
+	top:-10px;
+}
+//end
+
+#hero {
+  position: relative;
+  top: 100px;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 10px;
+  overflow: hide;
+
+  img {
+  	width: 100%;
+  }
+}
+
+.p-text {
+	font-size: 14px;
+	margin-top: 0;
+}
+
+#sidebar {
+	position: absolute;
+}
+
+#scroller-anchor {
+	border: solid 1px red;
+	top:0px;
+	position: absolute;
+}
+
+#scroller{
+	position: absolute;
+	left: 150px;
+	top: 118px;
+
+	h2 {
+		margin-bottom: 0px;
+		text-align: left;
+	}
+
+	li {
+		list-style-type: none;
+		line-height: 25px;
+		a {
+			color: #000;
+			text-decoration: none;
+			&:hover {
+				font-weight:700
+			}
+		}
+	}
+}
+
+.about-socialmedia {
+	font-size: 12px;
+	margin:0px;
+	margin-bottom:-9px;
+	line-height: 25px;
+}
+
+#about-wrapper {
+	padding-right: 200px;
+	margin-left: 300px;
+	padding-left: 100px;
+	position: relative;
+	top: 120px;
+
+	a {
+		color: #000;
+		text-decoration: none;
+	}
+
+	#about-about {
+	position: relative;
+
+		h2{
+			margin-bottom: 0;
+		}
+
+	}
+
+	#about-team {
+		position:relative;
+		top:30px;
+
+
+			table {
+
+				.right-column {
+					padding-left: 6%;
+				}
+
+				td{
+					width:47%;
+					display: inline-block;
+					height:100%;
+					float: left;
+
+				}
+				img {
+					width:100%;
+				}
+		
+				h2{
+					text-align: left;
+					margin-bottom: 0px;
+				}
+				.subtext {
+					font-style: italic;
+					margin-top: -5px;					
+				}	
+			}
+	}
+
+	#about-faq {
+		position: relative;
+		top: 30px;
+	}
+
+	#about-contact {
+		position: relative;
+		top: 30px;
+		padding-bottom: 200px;
+	}
+}
+
+.current {
+	font-weight: 700;
+}
+
+/* ==========================================================================
+   Responsiveness
+   ========================================================================== */
+
+//iPad width
+
+@media screen and (max-width: 1024px) {
+
+	#hero {
+		top: 50px;
+	}
+
+	#about-wrapper {
+		padding-right: 150px;
+		padding-left: 50px;
+		top: 60px;
+	}
+
+	#scroller {
+		left: 100px;
+		top: 58px;
+	}
+
+	#scroller-anchor {
+		top: -55px;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	#about-wrapper {
+		#about-team{
+			table {
+				td {
+					width: 100%;
+					height: auto;
+				}
+				.right-column {
+					padding-left: 0%;
+					top: 0%;
+					padding-top: 50px;
+				}
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 770px) {
+	#sidebar{
+		display: none;
+	}
+
+
+
+	#about-wrapper {
+		padding-right: 100px;
+		padding-left: 100px;
+		margin-left: 0px;
+
+		#about-contact {
+			padding-bottom: 130px;
+		}
+	}
+}
+
+@media screen and (max-width: 770px) {
+	#about-wrapper {
+		padding-right: 100px;
+		padding-left: 100px;
+	}
+}
+
+@media screen and (max-width: 642px) {
+	#about-wrapper {
+		padding-right: 80px;
+		padding-left: 80px;
+	}
+}
+
+@media screen and (max-width: 415px) {
+	#about-wrapper {
+		padding-right: 60px;
+		padding-left: 60px;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	#about-wrapper {
+		padding-right: 35px;
+		padding-left: 35px;
+	}
+}

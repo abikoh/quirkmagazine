@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Quirk Magazine</title>
+        <meta name="description" content="Quirk is an online Magazine made by and for young women. Frustrated with the current selection of magazines that objectify women, Quirk serves to be an alternative option.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+
+        <!--JAVASCRIPT GOES HERE-->
+
+        <!--Squarespace Header -->
+        {squarespace-headers}   
+    </head>
+
+<body>
+    <section id="header">
+        <div id="headerbg"
+            data-130="transform:translateY(0px)" 
+            data-180="transform:translateY(-55px)"
+            data-anchor-target=".box">
+        </div>
+
+        <img id="menuicon" src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/540a3e1ce4b0c46f2351f81b/1409957406985/menuicon.png?format=100w" />
+            
+        <a href="/home">
+            <img id="logo" src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/54066ad3e4b087d8052e6de2/1409706707204/?format=300w" alt="quirk"
+                data-0="left:50%"
+                data-130="transform: scale(1) translateY(0px)" 
+                data-190="transform: scale(.4) translateY(-115px)"
+                data-191="left:130px"
+                data-192="transform: scale(.4) translateY(-41px)"
+                data-anchor-target=".box">
+        </a>
+
+        <ul id="navbarmobile">
+            <li><a href="/about">About</a></li>
+            <li><a href="/fashion">Fashion</a></li>
+            <li><a href="/art">Art</a></li>
+            <li><a href="/reflections">Reflections</a></li>
+            <li><a href="/submit">Submit</a></li>
+        </ul>
+       
+        <table id="navbar"
+            data-130="transform:translateY(0px)"
+            data-180="transform:translateY(-55px)"
+            data-anchor-target=".box">
+            <tr>
+                <td><a title="About" href="/about">About</a></td>
+                <td><a title="Fashion" href="/fashion">Fashion</a></td>
+                <td><a title="Art" href="/art">Art</a></td>
+                <td><a title="Reflections" href="/reflections">Reflections</a></td>
+                <td><a title="Submit" href="/submit">Submit</a></td>
+            </tr>
+        </table>
+            
+        <table id="social" class="right">
+            <tr>
+                <td><a href="http://instagram.com/quirkmag/" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b02ce4b0ba22079ac349/1409789996152/?format=100w"></a></td>
+                <td><a href="https://www.facebook.com/quirkmagazine" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b01ce4b0ba22079ac32c/1409789980351/?format=100w"></a></td>
+                <td><a href="https://twitter.com/quirk_mag" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b03be4b0ba22079ac366/1409790015790/?format=100w"></a></td>
+           </tr>
+        </table>
+
+    </section>
+
+    <!-- End of Header -->
+
+    <div id="mainwrapper">
+
+        <section id="mainfeatures">
+            <div class="box">
+                <a href="http://www.quirk-magazine.com/articles/2014/10/9/style-inspiration-rachel-gladney"><img src="http://static.squarespace.com/static/5404e49ce4b04c639f442142/t/543f474de4b0faf71759bac2/1413433165949/?format=750w" alt="quirk"></a>
+                <div class="caption">
+                    <h3>Style Inspiration with Rachel Gladney</h3>
+                    <p>I love fashion because of its fluidity; because you can make it to be anything you want it to.</p>
+                    <a href="http://www.quirk-magazine.com/articles/2014/10/9/style-inspiration-rachel-gladney">Read More</a>
+                 </div>
+            </div>
+          
+            <div class="box" id="box-right">
+                <a href="http://www.quirk-magazine.com/articles/2014/10/4/visualizing-depression"><img src="http://static.squarespace.com/static/5404e49ce4b04c639f442142/t/543f56e3e4b0847bb28645d2/1413437156074/?format=750w" alt="quirk"></a>
+                <div class="caption">
+                    <h3>Visualizing Depression</h3>
+                    <p>Meredith Kennedy uses photography to showcase the broad depth of emotions felt during depression.</p>
+                    <a href="http://www.quirk-magazine.com/articles/2014/10/4/visualizing-depression">Read More</a>
+                </div>
+            </div>
+
+            <div id="container">
+                <div id="overlay">&nbsp;<br>&nbsp;</div>
+            </div>  
+        </section>
+    
+        <!-- End of Two Main Images -->
+
+        <div id="positioning">&nbsp;</div>
+       
+        <div id="wrapper">
+            <p id="center-text">Quirk is a magazine by <br id="brrr">and for young women.</p>
+            <section id="content">
+                {squarespace.main-content}
+            </section>
+        </div>
+
+    </div> 
+    <!--End of Main Wrapper-->
+      
+    <footer>
+        <hr>
+        <table>
+            <tr>
+                <td><a href="http://instagram.com/quirkmag/" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b02ce4b0ba22079ac349/1409789996152/?format=100w"></a></td>
+                <td><a href="https://www.facebook.com/quirkmagazine" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b01ce4b0ba22079ac32c/1409789980351/?format=100w"></a></td>
+                <td><a href="https://twitter.com/quirk_mag" target="_blank"><img src="https://static.squarespace.com/static/5404e49ce4b04c639f442142/t/5407b03be4b0ba22079ac366/1409790015790/?format=100w"></a></td>
+            </tr>
+        </table>
+
+        <table id="legal">
+            <tr>
+                <td class="right">This website was coded by a <a href="http://www.abikoh.com" target="_blank">llama</a></td>
+                <!--
+                <td class="right">Privacy Policy</td>
+                <td class="right">/</td>
+                <td class="right">Terms of Service</td>
+                -->
+            </tr>
+        </table
+    </footer>
+
+ <!-- JAVASCRIPT -->
+    <squarespace:script src="site.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
+    <squarespace:script src="skrollr.min.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
+     <!--[if lt IE 9]>
+    <script type="text/javascript" src="skrollr.ie.min.js"></script>
+    <![endif]--> 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"/></script>
+    
+    
+    <script type="text/javascript">
+   
+    //NAVBAR ANIMATION utilizes Scrollr.js
+    $(function () {
+        // initialize skrollr if the window width is large enough
+        if ($(window).width() > 1024) {
+            var s=skrollr.init();
+
+            $(window).on('resize', function () {
+                 if ($(window).width() > 1024) {
+                         var s=skrollr.init();
+                 } else if ($(window).width() <= 1024) {
+                    skrollr.init().destroy();
+                 }
+            });         
+        } else {
+            skrollr.init().destroy();
+        }
+    });
+
+    $(window).on('resize', function () {
+        document.getElementById("navbarmobile").style.display = "none";
+    });
+
+
+    //Displaying the mobile navbar
+    $("#menuicon").click(function(){
+        if ($( "#navbarmobile" ).is( ":hidden" ) ) {
+            $( "#navbarmobile" ).slideDown( 400 );
+        } else {
+            $( "#navbarmobile" ).hide();
+        }
+    }); 
+    
+    $("#mainwrapper").click(function(){    
+        document.getElementById("navbarmobile").style.display = "none";               
+    }); 
+
+    $("#wrapper").click(function(){    
+        document.getElementById("navbarmobile").style.display = "none";
+    }); 
+
+    $("#headerbg").click(function(){    
+        document.getElementById("navbarmobile").style.display = "none";      
+    }); 
+
+    </script>
+    <!-- End of Javascript -->
+  
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        
+        ga('create', 'UA-55816319-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    </body>
+</html>
+
